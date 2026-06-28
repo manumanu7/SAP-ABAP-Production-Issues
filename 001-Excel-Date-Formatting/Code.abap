@@ -73,7 +73,8 @@ TRY.
         t_table      = lt_final ).
 
   CATCH cx_salv_msg.
-    "Handle Exception
+    " Handle Exception
+
 ENDTRY.
 
 *-----------------------------------------------------------------------
